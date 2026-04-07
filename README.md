@@ -5,8 +5,6 @@
 
 
 
-
-
 ## Hi There!👋🏼
 
 ### Tech Stack  
@@ -33,14 +31,14 @@
  ### 🔥 Commit Streak
  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danush-dg&theme=radical&hide_border=true" />
 </p>
 
  
 ### 📈 Contribution Graph
  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danush-dg&theme=react-dark&hide_border=true&area=true" />
 </p>
  
  
