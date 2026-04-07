@@ -29,6 +29,35 @@
 <img src="https://img.shields.io/badge/Postman-101010?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
+
+### 📊 GitHub Stats
+ 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danushrajaram&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danush-dg&layout=compact&theme=radical&hide_border=true&langs_count=8" height="180" />
+</p>
+
+### 🏆 GitHub Trophies
+ 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=danush-dg&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+</p>
+ 
+---
+ ### 🔥 Commit Streak
+ 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danushrajaram&theme=radical&hide_border=true" />
+</p>
+
+ 
+### 📈 Contribution Graph
+ 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danushrajaram&theme=react-dark&hide_border=true&area=true" />
+</p>
+ 
+ 
 ### 📬 Find Me 
 <p align="left">
 <a href="https://www.linkedin.com/in/danushrajaram/">
