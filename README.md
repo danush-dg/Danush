@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=Danush%20Rajaram&fontSize=50&fontAlignY=30&animation=fadeIn&desc=Data%20Engineer&descSize=36&descAlignY=56" style="width: 100%;"/>
 </p>
-
+ 
 
 
 ## Hi There!👋🏼
